@@ -1,0 +1,4 @@
+*.deb
+*.rpm
+*.swp
+.DS_Store
